@@ -1,8 +1,6 @@
 <h1 align="center">Oi 👋, Eu sou o Lucas Truppel</h1>
 <h3 align="center">Um estudante de Ciências da Computação da Universidade Federal de Santa Catarina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucastruppel&label=Profile%20views&color=0e75b6&style=flat" alt="lucastruppel" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lucas-t-67850b181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-t-67850b181" height="30" width="40" /></a>
